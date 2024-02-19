@@ -1,8 +1,5 @@
-
-# Nuestra WEB de IA
+# [WEB](http://gonlelo.github.io)
 
 Este es el github de la web que hemos hecho para lenguaje de marcas.
 
-> [WEB](https://gonlelo.github.io)
-
-Eugenia, Gabriel y Gonzalo, Jose
+Eugenia, Gabriel y Gonzalo y Jose.

@@ -11069,7 +11069,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2020/07/Inteligencia-Artificial-Que%CC%81-Es-Co%CC%81mo-se-Clasifica.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/IMAGENPAGINA.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11157,8 +11157,9 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(#FF51A8, transparent 30%), url("https://cdn.discordapp.com/attachments/1155829651957100595/1204287937861132288/Designer_upscayl_3x_ultramix_balanced.jpg?ex=65d42f8a&is=65c1ba8a&hm=fc986820163ee83dce59f68be249195fb1c74c48f695e639b43956c14b518a4d&");
+  background: linear-gradient(#FF51A8, transparent 30%);
   background-position: center;
+  background-image: url("../assets/img/Designer_upscayl_3x_ultramix_balanced.webp");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
