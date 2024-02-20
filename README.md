@@ -1,6 +1,6 @@
 # WEB colaborativa
 
-Repositorio del proyecto web realizado para lenguaje de marcas.
+Repositorio del proyecto web realizado para lenguaje de marcas y/o entornos de desarrollo.
 
 [LINK WEB](http://gonlelo.github.io)
 
