@@ -4,7 +4,7 @@ Repositorio del proyecto web realizado para lenguaje de marcas.
 
 [LINK WEB](http://gonlelo.github.io)
 
-##Integrantes:
+## Integrantes:
 - Eugenia Rodín.
 - Pedro Gabriel Pulido.
 - Gonzalo De Sabedra.
